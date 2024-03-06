@@ -41,16 +41,19 @@
       font-size:11px;
       padding-left:5px;
       vertical-align: middle;
-      /*position:relative;*/
-      /*display:inline-block;*/
-      /*margin:0 auto;*/
       float:right;
       line-height:16px;
-      /*padding-top:5px;
-      padding-bottom:5px;*/
     }
 
-   
+    #myInputs input {
+      border-radius:1px;
+      text-align:left;
+      width:100%;
+      border:1px solid #d9d9d9;
+      font-size:13px;
+      height:25px;
+      padding:1px 8px;
+    }
     </style>
 
     <title>Google Advanced Search</title>
@@ -83,7 +86,7 @@
         
       <form action="https://google.com/search">
        
-                      
+            <div id="myInputs">          
              
             <div>
                  <div class="divLabel"><label class="advSearch" for="allTheseWords">all these words:</label></div>
@@ -110,7 +113,9 @@
                <div class="divInput"><input id="noneOfTheseWords" type="text" aria-label="from" class="form-control advanced-search-input" name="as_eq" title='Put a minus sign just before words that you don&apos;t want: -rodent, -&quot;Jack Russell&quot;'></div>
                <div class="divSpan d-none d-lg-block"><span>Put a minus sign just before words that you don&apos;t want: -rodent, -&quot;Jack Russell&quot;</span></div>
             </div>
-            
+            </div> <!-- end of myInputs id div -->
+
+
             <div class="form-group" style = "text-align:center;">
                <input type="submit" class="btn btn-primary"  style="margin:30px 5px;" value="Advanced Search" id="button-submit">
             </div>
