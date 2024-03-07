@@ -1,8 +1,8 @@
-# Problem0 <h1>Problem0 code for CS50W</h1>
+<!-- # Problem0 <h1>Problem0 code for CS50W</h1>  -->
 
 <h1>CS50W Problem0</h1>
-<p align="center">Hi, I&apos;m Arkadii and I&apos;m from Russia.</p> 
-<p align="center">Computer science computer science is my hobby 🇷🇺</p>
+<p>Hi, I'm Arkadii and I'm from Russia 🇷🇺.</p> 
+<p>Computer science computer science is my hobby</p>
 
 
 <h2>Specification</h2>
