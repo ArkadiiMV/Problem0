@@ -1,11 +1,10 @@
 <!-- # Problem0 <h1>Problem0 code for CS50W</h1> 
 <h1>Draft Lines</h1>  and I'm from Russia 🇷🇺.  -->
 <h1>CS50W Problem0</h1>
-<p>Hi, I'm Arkadii.</p> 
-<p>Computer science is my hobby</p>
 
-
-
+<p>Hi, My name Arkady.</p> 
+<p>Computer science is my hobby.</p>
+<p>Today I'm up to presenting my solution of Problem0(Search).</p>
 
 <p>So let's check if I managed to follow all the requirements for the Search problem.</p>
 
@@ -43,8 +42,9 @@
   <li><b>DONE - </b>The CSS you write should resemble Google’s own aesthetics.</li>
 </ul>
 
-You can have a look at my YouTube video <a href="#">here</a>
-
-Done.
+<p>You can have a look at my YouTube video <a href="#">here.</a></p>
+<p>At least for some time my Problem0 solution can be found <a href="#">here.</a></p>
+<p>Any amendments, remarks or comments are welcome.</p>
+<p>Done.</p>
 
 
