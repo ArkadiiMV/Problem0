@@ -23,7 +23,7 @@
     </ul>
   </li>
   <li><b>DONE - </b>On the Google Image Search page, the user should be able to type in a query, click a search button, and be taken to the Google Image search results for that page.</li>
-  <li><b>DONE - </b>On the Google Advanced Search page, the user should be able to provide input for the following four fields (taken from Google’s own <a href="https://www.google.com/advanced_search">advanced search</a> options)
+  <li><b>DONE - </b>On the Google Advanced Search page, the user should be able to provide input for the following four fields:
     <ul>
       <li><b>DONE - </b>Find pages with… “all these words:”</li>
       <li><b>DONE - </b>Find pages with… “this exact word or phrase:”</li>
