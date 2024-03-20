@@ -1,2 +1,4 @@
 # exclude VS Code workspace file
 *.code-workspace
+# exclude file video.docx these are comments to youtube file.
+videotext.docx
