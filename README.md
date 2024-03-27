@@ -1,5 +1,5 @@
-<!-- # Problem0 <h1>Problem0 code for CS50W</h1> 
-<h1>Draft Lines</h1>  and I'm from Russia 🇷🇺.  -->
+<!-- # Problem0 <h1>Problem0 code for CS50W</h1>  --> 
+
 <h1>CS50W Problem0</h1>
 
 <p>Hi, My name Arkady.</p> 
