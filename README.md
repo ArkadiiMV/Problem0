@@ -42,8 +42,8 @@
   <li><b>DONE - </b>The CSS you write should resemble Google’s own aesthetics.</li>
 </ul>
 
-<p>You can have a look at my YouTube video <a href="#">here.</a></p>
-<p>At least for some time my Problem0 solution can be found <a href="#">here.</a></p>
+<p>You can have a look at my YouTube video <a href="https://youtu.be/TsxRvwi-ILI" target="_blank">here.</a></p>
+
 <p>Any amendments, remarks or comments are welcome.</p>
 <p>Done.</p>
 
